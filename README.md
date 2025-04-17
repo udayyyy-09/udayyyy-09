@@ -1,6 +1,6 @@
 👋 Hey there! I'm Uday Chaudhary (@udayyyy-09)
 
-🚀 Passionate about building real-world applications & solving impactful problems
+![GitProfile](https://github.com/user-attachments/assets/d2fe8c4c-0c44-47d5-9880-3b73abf27983)
 
 🌱 Currently Exploring:
 Backend Development with Node.js & Express
