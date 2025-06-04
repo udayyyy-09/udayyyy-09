@@ -1,4 +1,4 @@
-👋 Hey there! I'm Uday Chaudhary (@udayyyy-09)
+👋 Hey there! I'm Uday Chaudhary
 
 ![GitProfile](https://github.com/user-attachments/assets/d2fe8c4c-0c44-47d5-9880-3b73abf27983)
 
@@ -15,4 +15,6 @@ LinkedIn: https://www.linkedin.com/in/uday-chaudhary-b24b08290/  ||
 Email: udaychaudhary419@gmail.com
 
 ⚡ Fun Fact:
-I love sunset drives—do you? 🌅✨ And debugging? Well, I do it in both code & life! 😆
+ I find peace in sunset drives and joy in debugging—whether it’s code or life’s little bugs. 🌅💻
+
+
