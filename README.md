@@ -6,15 +6,12 @@
 Backend Development with Node.js & Express
 Scalable & optimized full-stack applications
 
-💡 Looking to Collaborate On:
-Web Development Projects (React, Node.js, Tailwind CSS)
-Hackathons & Startup Ideas 🚀
-
 📫 Let's Connect!
 LinkedIn: https://www.linkedin.com/in/uday-chaudhary-b24b08290/  ||
 Email: udaychaudhary419@gmail.com
 
-⚡ Fun Fact:
- I find peace in sunset drives and joy in debugging—whether it’s code or life’s little bugs. 🌅💻
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=udayyyy-09&theme=radical)      ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=udayyyy-09&show_icons=true&theme=radical)
+
 
 
